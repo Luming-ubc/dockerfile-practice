@@ -1,3 +1,5 @@
+# Author: Luming Yang
+
 FROM jupyter/scipy-notebook
 USER root
 RUN apt-get update
